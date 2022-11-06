@@ -2,4 +2,4 @@
 Updated First ChnageThird change
 Upadted Second Change-Second Commit
 Upadted Second Change-Third Commit
-Conflict Addes  from-DHANANJAY
+Added Conflict-from Dhananjay
