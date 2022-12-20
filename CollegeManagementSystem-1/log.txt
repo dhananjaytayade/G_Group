@@ -1,0 +1,42 @@
+2022-12-08 18:38:07.093  INFO 7824 --- [main] com.example.demo.CollegeServiceImplTest  : Starting CollegeServiceImplTest using Java 17 on DESKTOP-FKNBRTO with PID 7824 (started by INTEL in E:\SpringPratice\SpringBootRest\CollegeManagementSystem-1)
+2022-12-08 18:38:07.121  INFO 7824 --- [main] com.example.demo.CollegeServiceImplTest  : No active profile set, falling back to 1 default profile: "default"
+2022-12-08 18:38:08.837  INFO 7824 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-08 18:38:08.952  INFO 7824 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 95 ms. Found 1 JPA repository interfaces.
+2022-12-08 18:38:10.246  INFO 7824 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-08 18:38:10.381  INFO 7824 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.14.Final
+2022-12-08 18:38:10.814  INFO 7824 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-08 18:38:11.120  INFO 7824 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-08 18:38:11.908  INFO 7824 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-08 18:38:11.936  INFO 7824 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-08 18:38:13.393  INFO 7824 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-08 18:38:13.408  INFO 7824 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-08 18:38:14.959  WARN 7824 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-08 18:38:15.498  INFO 7824 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-12-08 18:38:16.612  INFO 7824 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-12-08 18:38:16.649  INFO 7824 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-12-08 18:38:16.707  INFO 7824 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-12-08 18:38:16.763  INFO 7824 --- [main] com.example.demo.CollegeServiceImplTest  : Started CollegeServiceImplTest in 10.632 seconds (JVM running for 13.659)
+2022-12-08 18:38:17.854  INFO 7824 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-08 18:38:17.865  INFO 7824 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-08 18:38:17.927  INFO 7824 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-08 18:41:12.194  INFO 3516 --- [main] com.example.demo.CollegeServiceImplTest  : Starting CollegeServiceImplTest using Java 17 on DESKTOP-FKNBRTO with PID 3516 (started by INTEL in E:\SpringPratice\SpringBootRest\CollegeManagementSystem-1)
+2022-12-08 18:41:12.198  INFO 3516 --- [main] com.example.demo.CollegeServiceImplTest  : No active profile set, falling back to 1 default profile: "default"
+2022-12-08 18:41:13.947  INFO 3516 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-08 18:41:14.052  INFO 3516 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 86 ms. Found 1 JPA repository interfaces.
+2022-12-08 18:41:15.318  INFO 3516 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-08 18:41:15.453  INFO 3516 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.14.Final
+2022-12-08 18:41:15.804  INFO 3516 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-08 18:41:16.103  INFO 3516 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-08 18:41:16.826  INFO 3516 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-08 18:41:16.862  INFO 3516 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-08 18:41:19.353  INFO 3516 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-08 18:41:19.371  INFO 3516 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-08 18:41:22.037  WARN 3516 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-08 18:41:22.865  INFO 3516 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-12-08 18:41:24.850  INFO 3516 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-12-08 18:41:24.901  INFO 3516 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-12-08 18:41:24.972  INFO 3516 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-12-08 18:41:25.016  INFO 3516 --- [main] com.example.demo.CollegeServiceImplTest  : Started CollegeServiceImplTest in 13.524 seconds (JVM running for 15.546)
+2022-12-08 18:41:26.176  INFO 3516 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-08 18:41:26.181  INFO 3516 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-08 18:41:26.216  INFO 3516 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
